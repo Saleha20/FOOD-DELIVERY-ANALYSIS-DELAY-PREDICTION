@@ -12,6 +12,7 @@ Feature Importance Analysis
 
 **Dataset**
 Source: Kaggle Food Delivery Dataset
+
 Contains attributes like:
 Distance
 Weather
@@ -22,12 +23,17 @@ Preparation Time
 Courier Experience
 
 **Technologies Used**
+
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn
 
 **Models Used**
+
 _**Regression:**_
 Linear Regression
 KNN Regressor
